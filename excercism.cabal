@@ -60,8 +60,17 @@ library
     -- Modules exported by the library.
     exposed-modules:
         MyLib,
-        Anagram,
-        Acronym
+        ReverseString,
+        Darts,
+        SpaceAge,
+        Pangram,
+        Bob,
+        CollatzConjecture,
+        DNA,
+        SumOfMultiples,
+        Grains,
+        Acronym,
+        Anagram
 
     -- Modules included in this library but not exported.
     -- other-modules:
